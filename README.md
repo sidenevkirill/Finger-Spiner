@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="[https://github.com/sidenevkirill/Flaco-VKMusic/blob/master/logo_spinner.png?raw=true](https://github.com/sidenevkirill/Sidenevkirill.github.io/blob/master/img/logo_spinner.png?raw=true)" width="128" height="128" style="display: block; margin: 0 auto"/>
+    <img src="https://github.com/sidenevkirill/Sidenevkirill.github.io/blob/master/img/logo_spinner.png" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>Finger spinner</h1>
     <p>Просто вращайте спиннер.</p>
 
