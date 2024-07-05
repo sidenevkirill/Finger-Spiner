@@ -45,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onBackPressed(View v) {
-        //эмулируем нажатие на HOME, сворачивая приложение
         Intent i = new Intent(Intent.ACTION_MAIN);
         i.addCategory(Intent.CATEGORY_HOME);
         i.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
